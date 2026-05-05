@@ -6,4 +6,20 @@
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>https://www.kumarifashion.co.in/mens</loc>
+  </url>
+
+  <url>
+    <loc>https://www.kumarifashion.co.in/perfumes</loc>
+  </url>
+
+  <url>
+    <loc>https://www.kumarifashion.co.in/offers</loc>
+  </url>
+
+  <url>
+    <loc>https://www.kumarifashion.co.in/cart</loc>
+  </url>
+
 </urlset>
